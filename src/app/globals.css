@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    color: white;
+}
+
+html, body {
+    background-color: black;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.bg-gradent{
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0));
+}
+
+.time {
+    width: 20%;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-weight: 800;
+    font-size: 30px;
+    flex-direction: column;
+    gap: 10px;
+}
+.time .time-num, .time .time-label {
+    width: 100%;
+    justify-content: space-around;
+    gap: 5px;
+}
+.time .time-num > div {
+    font-size: 32px;
+    border-color: #EEEFF0;
+    border-radius: 5px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    padding: 10px;
+    width: 65px;
+    opacity: 0.7;
+    text-align: center;
+}
+.time .time-label > div {
+    width: 65px;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.line {
+    height: 70px;
+    width: 2px;
+    opacity: 0.6;
+    background-color: #EEEFF0;
+    margin-top: 30px;
+}
+
+.airdrop {
+    width: 220px;
+    margin-top: 26px;
+    font-weight: bold;
+    flex-direction: column;
+}
+.airdrop .airdrop-title {
+    font-size: 24px;
+    letter-spacing: -0.24px;
+}
+.airdrop .airdrop-content {
+    font-size: 26px;
+    letter-spacing: -0.24px;
+}
+.airdrop .airdrop-content > span {
+    color: #0ED4FF;
+}
+
+.SponsoredBy .video-view {
+    border-color: #0FC3EB;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 40px;
+    width: 100%;
+    flex-direction: column;
+    padding: 50px 100px 50px 100px;
+}
+.SponsoredBy .video-view .video-discription {
+    width: 30%;
+}
+
+.gradient {
+    font-size: 70px !important;
+    font-weight: bold !important;
+    background: -webkit-linear-gradient(0deg, #0ED4FF, #DCBFFC, #7700FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.benefits {
+    width: 70%;
+}
