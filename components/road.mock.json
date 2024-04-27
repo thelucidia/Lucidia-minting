@@ -1,0 +1,72 @@
+{
+  "mapcard": [
+    {
+      "year": "2024",
+      "road": "Q1-Q2",
+      "desc": [
+        "Seed Round",
+        "Ecosystem App launched in Beta",
+        "Beta launch of ecosystem app",
+        "Listing on CMC and CG",
+        "Development of dev tools hub for Web3 gaming",
+        "NFT Integration Toolkit as a Service",
+        "Lucidia’s Web3 Login Systems"
+      ]
+    },
+    {
+      "year": "2024",
+      "road": "Q3-Q4",
+      "desc": [
+        "TGE",
+        "Staking for token holders",
+        "First CEX and DEX listing",
+        "Token integration into games",
+        "Digital Replica (1:1)",
+        "NFT Marketplace",
+        "Limited game access in alpha",
+        "Mobile closed beta"
+      ]
+    },
+    {
+      "year": "2025",
+      "road": "Q1-Q2",
+      "desc": [
+        "Next CEX listing",
+        "Conduct burn event",
+        "Development of NFT smart contracts",
+        "Development and launch of community-driven funding platform for web3 game development",
+        "Initiate P2E framework for game studios"
+      ]
+    },
+    {
+      "year": "2025",
+      "road": "Q3-Q4",
+      "desc": [
+        "Built-in game inventory system",
+        "Lucidia bug bounty reward system",
+        "ETournament API with ELO and bracket system and smart contract automation",
+        "Launch cross-game asset integration for Lucidia’s game library"
+      ]
+    },
+    {
+      "year": "2026",
+      "road": "Q1-Q2",
+      "desc": [
+        "Comprehensive translation of products English → Arabic",
+        "Game Incubator and Accelerator",
+        "Expand offline events organized in the Middle East for community engagement",
+        "Quarterly top 10 ranked games for the Middle East region"
+      ]
+    },
+    {
+      "year": "2026",
+      "road": "Q3-Q4",
+      "desc": [
+        "Scale and enhance existing platforms and services based on user feedback and market trends",
+        "Review and strategize for next phase development",
+        "Continue community engagement and marketing efforts",
+        "Explore technologies and integrations for future growth "
+      ]
+    }
+  ]
+}
