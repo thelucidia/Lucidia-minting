@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200;300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Clash';
+    src: url('../fonts/ClashGrotesk-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Clash';
+    src: url('../fonts/ClashGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Clash';
+    src: url('../fonts/ClashGrotesk-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Clash';
+    src: url('../fonts/ClashGrotesk-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .clipped {
+    --edge-size: 1em;
+    clip-path: polygon(
+      var(--edge-size) 0,
+      100% 0,
+      100% calc(100% - var(--edge-size)),
+      calc(100% - var(--edge-size)) 100%,
+      0 100%,
+      0 var(--edge-size)
+    );
+  }
+
+  .clipped2 {
+    --edge-size: 1em;
+    clip-path: polygon(
+      var(--edge-size) 0,
+      100% 0,
+      100% calc(100% - var(--edge-size)),
+      calc(100% - var(--edge-size)) 100%,
+      0 100%,
+      0 var(--edge-size)
+    );
+  }
+
+  .clipped3 {
+    --edge-size: 3em;
+    clip-path: polygon(var(--edge-size) 0, 100% 0, 100% calc(100% - var(--edge-size)), 100% 100%, 0 100%, 0 100%);
+  }
+
+  /* Hide the default scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #121212;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 1rem;
+    transition: background-color 0.2s;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #999;
+  }
+
+  html,
+  body {
+    scroll-behavior: smooth;
+  }
+
+  .post-slider .slick-list {
+    overflow: visible;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.text-image {
+  width: fit-content;
+}
+
+.time {
+  width: 20%;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-weight: 800;
+  font-size: 30px;
+  flex-direction: column;
+  gap: 10px;
+}
+.time .time-num {
+  width: 100%;
+  justify-content: space-around;
+  gap: 5px;
+}
+.time .time-label {
+  width: 100%;
+  justify-content: space-around;
+  gap: 32px;
+}
+.time .time-num > div {
+  font-size: 32px;
+  border-color: #EEEFF0;
+  border-radius: 5px;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  padding: 10px;
+  width: 65px;
+  opacity: 0.9;
+  text-align: center;
+}
+.time .time-label > div {
+  width: 65px;
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.line {
+  height: 70px;
+  width: 2px;
+  opacity: 0.9;
+  background-color: #EEEFF0;
+  margin-top: 30px;
+}
+
+.airdrop {
+  width: 220px;
+  margin-top: 26px;
+  font-weight: bold;
+  flex-direction: column;
+}
+.airdrop .airdrop-title {
+  font-size: 24px;
+  letter-spacing: -0.24px;
+}
+.airdrop .airdrop-content {
+  font-size: 26px;
+  letter-spacing: -0.24px;
+}
+.airdrop .airdrop-content > span {
+  color: #0ED4FF;
+}
+
+.video .video-view {
+  border-color: #0FC3EB;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 40px;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 100px;
+  padding: 50px 100px 50px 100px;
+}
+.video .video-view .video-discription {
+  width: 35%;
+  font-size: large;
+  font-weight: 900;
+}
+
+.bg-cyan {
+  background-color: #0FC3EB;
+}
+
+.bg-grn {
+  background-color: #C0FF0E;
+}
+
+.font-secondary {
+  font-family: 'Bai Jamjuree';
+}
+.font-tertiary {
+  font-family: 'Bai Jamjuree';
+  letter-spacing: 3px;
+}

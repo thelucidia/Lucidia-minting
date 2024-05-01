@@ -1,0 +1,125 @@
+{
+  "sandstorm": [
+    {
+      "title": "GAME OVERVIEW",
+      "desc": [
+        "<span class='text-[#70F]'>Title: </span>  Sandstorm Racers",
+        "<span class='text-[#70F]'>Genre: </span>  Open-World Racing Simulation",
+        "<span class='text-[#70F]'>Target Audience: </span> Racing enthusiasts, adventure gamers, and fans of carculture",
+        "Experience the thrill ofracing in dynamic sandstorm environments, where every drift and turn brings youcloser to becoming a legend in the Middle Eastern racing scene.",
+        "<p class='text-white pt-[12px] pb-[12px] uppercase font-[700]'>Highlighting Points</p>",
+        "<span class='text-[#0ED4FF]'>•  Dynamic Sandstorm Environments:  </span> Navigate through unpredictable weather conditions that transform the open-world landscape, challenging your racing prowess and strategic thinking.",
+        "<span class='text-[#0ED4FF]'>•  Arab Drift Racing: </span>  Immerse yourself in the adrenaline-fueled world of Arab drift racing, executing high-risk maneuvers and competing in events that celebrate this unique racing style.",
+        "<span class='text-[#0ED4FF]'>•  Extensive Vehicle Customization: </span> Dive into a game world that pays homage to Middle Eastern car culture, with authentic locations, a vibrant soundtrack, and events inspired by regional traditions.",
+        "<span class='text-[#0ED4FF]'>•  Community and Competition:  </span> Engage with a globalcommunity of racers through competitive multiplayer events, cooperativechallenges, and social hubs where you can showcase your customized vehicles."
+      ],
+      "image": "/assets/app/games/sandstorm/view_1.png"
+    },
+    {
+      "title": "GAMEPLAY MECHANICS",
+      "desc": [
+        "'Sandstorm Racers' offers a blend of high-speed action andrealistic racing dynamics, set in an expansive open world that encouragesexploration and competition.",
+        "<span class='text-[#70F]'>•  Racing Dynamics: </span>  Experience realistic vehicle handling and physics, where skill and precision lead to victory. Master the balance between speed and control to dominate the desert tracks.",
+        "<span class='text-[#70F]'>•  Drifting Mechanics:  </span> The essence of Arab drift racing comes to life with in-depth drifting mechanics. Earn points for style, speed, and risk-taking as you slide through corners and around obstacles.",
+        "<span class='text-[#70F]'>•  Dynamic Weather System:  </span> Adapt to the ever-changingdesert environment as sandstorms roll in, altering visibility and trackconditions, adding a layer of unpredictability to every race.",
+
+        "<p class='text-[#70F] pt-[12px] pb-[12px] uppercase font-[700]'>Story and Narrative</p>",
+        "Story and Narrative",
+        "Embark on a journey through the heart of the Middle East's racing culture, where your reputation and skills are your tickets to fame and respectin the vibrant world of 'Sandstorm Racers.'",
+        "Accessibility",
+        "Free to play, PC and Mobile(Mobile grey out)"
+      ],
+      "image": "/assets/app/games/sandstorm/view_2.png"
+    }
+  ],
+  "desert": [
+    {
+      "title": "Game Overview",
+      "desc": [
+        "<span class='text-[#C0FF0E]'>Title: </span>  Desert Warriors",
+        "<span class='text-[#C0FF0E]'>Genre: </span>  First-Person Shooter (FPS)",
+        "<span class='text-[#C0FF0E]'>Target Audience: </span> Competitive and casual gamers, Web3 enthusiasts",
+        "Dive into \"Desert Warriors\" where your strategic prowess,teamwork, and adaptability are your greatest assets. Engage in high-stakes combat across ancient ruins, futuristic installations, and unpredictable sand dunes.",
+        "<span class='text-[#70F] pt-[24px]'>Unique Selling Points</span>",
+        "<span class='text-[#70F]'>•  Strategic Gameplay: </span>  Every match in 'Desert Warriors' is a testament to strategy, requiring keen planning, flawless team coordination, and adept skill execution.",
+        "<span class='text-[#70F]'>•  Web3 Integration: </span> Propel your gaming experience into the future with blockchain technology, enabling true ownership, trading, and customization of NFT-based in-game assets.",
+        "<span class='text-[#70F]'>•  Diverse Environments: </span> From the silent whispers of ancient deserts to the cold echoes of advanced military bases, each map offers unique tactical challenges.",
+        "<span class='text-[#70F]'>•  Community-Centric Development: </span> 'Desert Warriors' evolves with you. Your feedback and engagement shape the future, with continuous updates and new content driven by the community."
+      ],
+      "image": "/assets/app/games/desert/view_1.png"
+    },
+    {
+      "title": "Game Overview",
+      "desc": [
+        "'Desert Warriors' plunges players into an innovative first-person shooter experience, blending high-stakes tactical gameplay with the groundbreaking potential of Web3 and NFTs within vast desert battlegrounds. As players engage in strategic combat and team-based missions, they navigate a player-driven economy powered by blockchain, transforming in-game assets into valuable, tradeable items. This FPS game not only tests players' combat prowess but also immerses them in a world where strategy, teamwork, and blockchain technology converge to create a dynamic, evolving battlefield."
+      ],
+      "image": "/assets/app/games/desert/view_2.png"
+    },
+    {
+      "title": "Game Features",
+      "desc": [
+        "<span class='text-[#C0FF0E]'>Strategic Tactical Combat </span>  Engage in thoughtful, team-oriented battles where strategy and coordination are key to dominating expansive desert terrains",
+        "<span class='text-[#C0FF0E]'>Web3 and NFT Integration: </span>  Own, trade, and personalize NFT-based skins and items, introducing a layer of strategy and personal investment to the gaming experience.",
+        "<span class='text-[#C0FF0E]'>Expansive Desert Environments: </span> Battle across diverse maps, from ancient ruins to futuristic bases, each offering unique tactical challenges and visual splendor.",
+        "<span class='text-[#70F]'>•  Community-Driven Evolution: </span>  'Desert Warriors' grows with its community, incorporating feedback and updates to continuously enrich the gameplay and ecosystem.",
+        "<p class='pt-8'>With 'Desert Warriors,' players are not just participants in thrilling FPS battles; they are pioneers in a new era of gaming where the thrill of competition meets the innovation of blockchain technology.</p>"
+      ],
+      "image": "/assets/app/games/desert/view_2.png"
+    }
+  ],
+  "curse": [
+    {
+      "title": "GAME OVERVIEW",
+      "desc": [
+        "<span class='text-[#70F]'>Title: </span>  Curse Of The Pharaoh",
+        "<span class='text-[#70F]'>Genre: </span>  Hybrid FPS with Co-op, PvP, and PvE Elements",
+        "<span class='text-[#70F]'>Setting: </span>  A post-apocalyptic Dubai, where ancient Middle Eastern myth shave taken root in the modern world. Embark on a quest through a cityscape that marries the iconic skyline ofDubai with the haunting beauty of mythological chaos, where every corner turned is a step deeper into a narrative that spans ages.",
+        "<p class='text-white pt-[12px] pb-[12px] uppercase font-[700]'>Unique Selling Points</p>",
+        "<span class='text-[#A5FF16]'>•  Dubai Reimagined:  </span> Traverse the sands of time in a Dubai overtaken by mythological forces, where every landmark tells a story of ancient power and modern resilience.",
+        "<span class='text-[#A5FF16]'>•  Mythological Warfare: </span>  Engage in combat against legendary beasts and deities from Middle Eastern lore, utilising a mix of futuristic firepower and ancient magic.",
+        "<span class='text-[#A5FF16]'>•  Narrative Depth: </span>  Delve into a story that weaves the rich cultural tapestry of the Middle East with thrilling mythological tales, setting the stage for an epic saga of heroism and betrayal.",
+        "<span class='text-[#A5FF16]'>•  Web3 Integration:   </span> Step into the future of gaming with Web3 technologies, where your achievements and treasures become NFTs, adding a layer of strategy and value to every action."
+      ],
+      "image": "/assets/app/games/curse/view_1.png"
+    },
+    {
+      "title": "Gameplay Mechanics",
+      "desc": [
+        "\"Curse Of The Pharaoh\" offers a rich blend of FPS action, strategy, and cooperative gameplay, set against the backdrop of an open-world Dubai afflicted by ancient curses.",
+        "<span class='text-[#70F]'>•  Advanced Movement:  </span>  Master the art of urban navigation with parkour mechanics, allowing for fluid movement across Dubai's transformed skyline.",
+        "<span class='text-[#70F]'>•  Strategic Combat:  </span> Balance your arsenal of high-tech weapons with enchanted artefacts, each offering unique advantages against the mythological menaces you'll face.",
+        "<span class='text-[#70F]'>•  Cooperative Missions:   </span> Band together with allies to undertake quests that dive deep into the heart of the plagues, with dynamic scenarios that adapt based on your team's decisions and achievements.",
+
+        "<p class='text-[#70F] pt-[12px] pb-[12px] uppercase font-[700]'>Story and Narrative</p>",
+        "In a world where the past and future collide, you play a crucial role inunraveling the mysteries behind the relic that has bridged the gap between realms, setting ancient gods and monsters loose upon Dubai.",
+        "<p class='text-[#70F] pt-[12px] pb-[12px] uppercase font-[700]'>Story and Narrative</p>",
+        "<span class='text-[#70F]'>•  Reimagined Dubai:  </span> Explore a city transformed by mythological plagues, where the familiar meets the fantastical, offering endless opportunities for exploration and combat.",
+        "<span class='text-[#70F]'>•  Dynamic Environments:    </span> Navigate through a world that reacts to your actions, with shifting terrains and interactive elements that make each journey through Dubai unique."
+      ],
+      "image": "/assets/app/games/curse/view_2.png"
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Game Overview",
+      "desc": [
+        "<span class='text-[#C0FF0E]'>Title:</span> Cryptocraft",
+        "<span class='text-[#C0FF0E]'>Genre:</span>  Sandbox, Open-World, Survival",
+        "<span class='text-[#C0FF0E]'>Setting:</span> Creative builders, explorers, Web3 enthusiasts, and community-driven players",
+        "Embark on an adventure in ever-expanding worlds, craft your destiny, and become part of a vibrant community where collaboration and creativity reign supreme.",
+        "<span class='text-[#7700FF] mt-[24px]'>Gameplay Mechanics</span>",
+        "Cryptocraft is an amalgamation of creativity, survival, and exploration, set in a richly diverse and responsive world.",
+        "<span class='text-[#C0FF0E]'>Building and Crafting:</span>  From humble shelters to grandiose constructions. Cryptocraft's intuitive crafting system invites endless innovation",
+        "<span class='text-[#C0FF0E]'>Exploration:</span> Traverse sprawling biomes, each brimming with unique resources and mysteries. Discover, adapt, and survive in a world that's as vast as your imagination"
+      ],
+      "image": "/assets/app/games/crypto/bg_1.png"
+    },
+    {
+      "title": "Game Overview",
+      "desc": [
+        "'CryptoCraft' immerses players in a sandbox world where creativity, survival, and blockchain merge to forge a novel gaming frontier. Leveraging a realistic physics engine, the game balances intricate crafting and building mechanics with accessible gameplay for a diverse audience. Players are thrust into an expansive, user-generated universe, encouraged to explore, survive, and thrive in ecosystems that dynamically respond to their actions. From crafting basic tools to constructing elaborate structures and engaging in a player-driven economy, 'CryptoCraft' offers a canvas for limitless creativity underpinned by Web3 technology."
+      ],
+      "image": "/assets/app/games/crypto/bg_2.png"
+    }
+  ]
+}
